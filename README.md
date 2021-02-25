@@ -10,8 +10,9 @@
 ```html
 
 ```
-
+<!--
 <head>
 <title>CTS Games</title>
 <meta http-equiv="refresh" content="5;URL=./homepage.html" />
 </head>
+-->
