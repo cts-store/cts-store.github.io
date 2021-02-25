@@ -1,10 +1,15 @@
 # CTS Games
+---
 ### Please wait a bit, we are trying to transfer you to the main page!
-'''html
-test
-'''
+---
+### Copyrights: ©2018 - 2021 CTS Games, mrlok_, ©Archives 2019 - 2021
+
+
+```html
+
+```
 
 <head>
 <title>CTS Games</title>
-<meta http-equiv="refresh" content="0;URL=./homepage.html" />
+<meta http-equiv="refresh" content="5;URL=./homepage.html" />
 </head>
