@@ -1,6 +1,6 @@
 body
 {
-   background-color: #191970;
+   background-color: #151628;
    color: #000000;
    font-family: Arial;
    font-weight: normal;
@@ -44,17 +44,17 @@ input:focus, textarea:focus, select:focus
 #MenuBar1
 {
    background-color: transparent;
-   border: 0px solid #000080;
+   border: 0px solid #151628;
 }
 .MenuBar1SubMenu
 {
    background-color: transparent;
-   border: 1px solid #000080;
+   border: 1px solid #151628;
    position:	absolute;
    visibility: hidden;
    overflow: visible;
    z-index: 100;
-   box-shadow: 3px 3px 0px rgba(0,0,128,0.50);
+   box-shadow: 3px 3px 0px rgba(21,22,40,0.50);
 }
 .MenuBar1SubMenuTable
 {
@@ -76,7 +76,7 @@ input:focus, textarea:focus, select:focus
 .MenuBar1MenuOuter
 {
    background-color: transparent;
-   border: 0px solid #000080;
+   border: 0px solid #151628;
 }
 .MenuBar1Menu tr
 {
@@ -98,7 +98,7 @@ input:focus, textarea:focus, select:focus
 .MenuBar1MainItem .MenuBar1MainFolderText,
 .MenuBar1MainItem .MenuBar1MainFolderText a
 {
-   background-color: #191970;
+   background-color: #151628;
    color: #4169E1;
    font-size: 24px;
    font-family: Verdana;
@@ -146,7 +146,7 @@ input:focus, textarea:focus, select:focus
 .MenuBar1MainItemHover .MenuBar1MainFolderText a,
 .MenuBar1MainItemActive .MenuBar1MainFolderText a
 {
-   background-color: #000080;
+   background-color: #151628;
    color: #FFFFFF;
    font-size: 24px;
    font-family: Verdana;
@@ -334,7 +334,7 @@ input:focus, textarea:focus, select:focus
 }
 .MenuBar1MainItem .MenuBar1MainSplitText
 {
-   background-color: #191970;
+   background-color: #151628;
    height: 21px;
    padding: 0;
 }
@@ -352,7 +352,7 @@ input:focus, textarea:focus, select:focus
    border-right: 0 solid #8080FF;
    border-left: 0 solid #8080FF;
    width: 35px;
-   background-color: #191970;
+   background-color: #151628;
    padding: 10px 0px 10px 0px;
    vertical-align: middle;
    text-align: center;
@@ -400,16 +400,16 @@ input:focus, textarea:focus, select:focus
 }
 #OverlayMenu1
 {
-   background-color: #000080;
+   background-color: #1E1628;
    background-image: none;
-   border: 0px solid #000080;
+   border: 0px solid #1E1628;
    margin: 0;
 }
 #OverlayMenu1:hover
 {
    background-color: #CCCCCC;
    background-image: none;
-   border-color: #120080;
+   border-color: #FFFFFF;
 }
 #OverlayMenu1
 {
@@ -428,7 +428,7 @@ input:focus, textarea:focus, select:focus
 }
 #OverlayMenu1:hover .line
 {
-   background: #000080;
+   background: #1E1628;
 }
 #OverlayMenu1 .line:first-child
 {
