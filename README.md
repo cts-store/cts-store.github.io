@@ -6,6 +6,10 @@
 ---
 ### Copyrights: ©2018 - 2021 CTS Games, mrlok_, ©Archives 2019 - 2021
 
+```html
+
+```
+
 <head>
 <link rel="apple-touch-icon" sizes="57x57" href="./favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="./favicon/apple-icon-60x60.png">
@@ -24,16 +28,8 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="./favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">  
-</head>
-
-
-
-```html
-
-```
-<!--
-<head>
+  
+  
 <title>CTS Games</title>
-<meta http-equiv="refresh" content="5;URL=./homepage.html" />
+<meta http-equiv="refresh" content="0;URL=./homepage.html" />
 </head>
--->
