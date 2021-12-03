@@ -1,0 +1,9 @@
+{
+   "author": "mrlok_", 
+   "description": "custom Jar files system",
+   "LibsWindows": "glasslib.zip",
+   "LibsLinux": "glasslib.tar.gz",
+   "LibsForEngines": {
+      "godot": "godot.glasslib.zip"
+   } 
+} 
