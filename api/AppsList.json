@@ -1,4 +1,39 @@
 {
-   "popular": {}, 
-   "newest": {}
-} 
+    "apps_list": {
+        "1": {
+            "app_name": "",
+            "app_author": "",
+            "app_page": "",
+            "app_version": "",
+            "app_platform": ""
+        },
+        "2": {
+            "app_name": "",
+            "app_author": "",
+            "app_page": "",
+            "app_version": "",
+            "app_platform": ""
+        },
+        "3": {
+            "app_name": "",
+            "app_author": "",
+            "app_page": "",
+            "app_version": "",
+            "app_platform": ""
+        },
+        "4": {
+            "app_name": "",
+            "app_author": "",
+            "app_page": "",
+            "app_version": "",
+            "app_platform": ""
+        },
+        "5": {
+            "app_name": "",
+            "app_author": "",
+            "app_page": "",
+            "app_version": "",
+            "app_platform": ""
+        }
+    }
+}
