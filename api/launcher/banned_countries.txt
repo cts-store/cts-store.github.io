@@ -1,2 +1,3 @@
-RU
-CN
+RU / RUS
+CN / CHN
+CU / CUB
