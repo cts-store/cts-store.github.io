@@ -1,2 +1,8 @@
-
 importfile("Core.mebs");
+
+ACEngine.Begin();
+
+ACEngine.KEY = "CTS.FR.App";
+ACEngine.Invoke();
+
+ACEngine.End();
