@@ -1,1 +1,10 @@
+class ACEngine() {
+    enum {
+        KEY,
+        DEBUG
+    } 
 
+     Begin += new EngineEXPFunc001.Begin();
+     Invoke += new EngineEXPFunc002.Invoke(KEY, DEBUG);
+     End += new EngineEXPFunc003.End();
+}
